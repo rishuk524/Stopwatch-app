@@ -8,7 +8,7 @@ Stopwatch app
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **stopwatch app** [Live Link]
+# **stopwatch app** [Live Link](https://stopwatchapp-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about if else
